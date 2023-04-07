@@ -14,7 +14,7 @@
 
 <meta name= 'description' content='taco store description'>
 
-<title>Taco store read me</title>
+
 
 </head>
 
@@ -34,19 +34,20 @@
 
 <p>
 
-    Taco store is a simple html website of an imaginary taco store.</p> <br>
+Taco store is a simple html website of an imaginary taco store.</p> <br>
 
     it has 3 pages; 
 
-    <ol>
+<ul>
 
-        <li>The Index(homepage)</li>
+<li> The Index(homepage)</li>
 
-        <li>Store Hours page</li>
+<li>Store Hours page</li>
 
-        <li>Contact page.</li>
+<li>Contact page.</li>
 
-    </ol>
+</ul>
+
 
 <hr>
 
@@ -58,11 +59,11 @@
 
 <figure>
 
-     <img src=""> 
+<img src=""> 
 
      
 
-     </figure>
+</figure>
 
 
 
