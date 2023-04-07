@@ -59,7 +59,7 @@ Taco store is a simple html website of an imaginary taco store.</p> <br>
 
 <figure>
 
-<img src=""> 
+<img src="./Samples/home-example.png"> 
 
      
 
